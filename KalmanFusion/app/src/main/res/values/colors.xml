@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#F27303</color>
+    <color name="color">#FFFFFF</color>
+    <array name="gradient">
+        <item>#03F20B</item>
+        <item>#99FF66</item>
+        <item>#CCFF66</item>
+        <item>#FFCC00</item>
+        <item>#FFCC00</item>
+        <item>#FFC107</item>
+        <item>#FF9933</item>
+        <item>#F27303</item>
+        <item>#FF0000</item>
+        <item>#FF0000</item>
+    </array>
+</resources>
